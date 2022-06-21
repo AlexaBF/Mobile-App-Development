@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplicationNew</string>
+    <string name="str_usuario">Usuario</string>
+    <string name="str_password">Contraseña</string>
+    <string name="btn_inicia">Iniciar Sesión</string>
+    <string name="btn_cancela">Cancelar</string>
+    <string name="str_bienvenido">¡Bienvenido!</string>
+</resources>
