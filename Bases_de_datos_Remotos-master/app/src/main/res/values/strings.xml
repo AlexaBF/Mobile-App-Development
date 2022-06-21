@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bases_de_datos_Remotos</string>
+    <string name="URL">"https://jsonplaceholder.typicode.com/users"</string>
+</resources>
