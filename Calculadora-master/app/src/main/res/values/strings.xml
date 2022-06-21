@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculadorra</string>
+    <string name="str_cero">0</string>
+    <string name="str_Igual">=</string>
+    <string name="str_Divide">/</string>
+    <string name="str_Uno">1</string>
+    <string name="str_Dos">2</string>
+    <string name="str_Siete">7</string>
+    <string name="str_Nueve">9</string>
+    <string name="str_Ocho">8</string>
+    <string name="str_Seis">6</string>
+    <string name="str_Cinco">5</string>
+    <string name="str_Cuatro">4</string>
+    <string name="str_Tres">3</string>
+    <string name="str_Más">+</string>
+    <string name="str_Menos">-</string>
+    <string name="str_Multiplica">*</string>
+    <string name="str_Clear">Clear</string>
+</resources>
