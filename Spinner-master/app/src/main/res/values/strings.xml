@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="RES">Resultado:</string>
+    <string name="ERROR">ERROR:</string>
+
+    <string name="string_Conviertir">Convertir</string>
+    <string-array name="monedas">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>MXN</item>
+        <item>AUD</item>
+        <item>CAD</item>
+    </string-array>
+</resources>
