@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="str_usuario">Email or Username</string>
+    <string name="str_password">Password</string>
+    <string name="str_login">Log In</string>
+    <string name="str_forgot">Forgot Password?</string>
+</resources>
