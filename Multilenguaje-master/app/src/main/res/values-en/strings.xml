@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multilanguaje</string>
+    <string name="str_toast">Show text in toast</string>
+    <string name="str_alert">Show text in AlertDialog</string>
+    <string name="str_console">Show text in Console</string>
+    <string name="str_aqui">Write text here</string>
+    <string name="str_dialog_title">Dialog title</string>
+    <string name="str_yes">Yes</string>
+    <string name="str_no">No</string>
+    <string name="str_later">Later</string>
+</resources>
